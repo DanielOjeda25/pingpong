@@ -1,0 +1,17 @@
+#root {
+  display:flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.ping{
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+h2{
+  margin: 0px 15px 0 15px;
+  font-size: 2rem;
+}
